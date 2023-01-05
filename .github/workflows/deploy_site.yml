@@ -46,5 +46,6 @@ jobs:
           # Upload entire repository
           path: 'build/html'
       - name: Deploy to GitHub Pages
+        if: ${{ github.ref == 'ref/head/main' }}
         id: deployment
         uses: actions/deploy-pages@v1

@@ -1,8 +1,8 @@
 Automated Tests
 ===============
 
-.. post::
-    :tags: 8.0
+.. post:: 1 Jan, 2023
+    :tags: 8_0, 7_0, lrgs, cp, decodes, tsdb, routing
     :category: roadmap
     :author: Mike Neilson
 

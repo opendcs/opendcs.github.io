@@ -14,7 +14,7 @@ This page will gather other useful information about use and the future of the p
 Release notifications
 #####################
 
-.. postlist:: 5
+.. postlist:: 2
    :category: notification
    :tags: release-notification, known-issues
    :excerpts:
@@ -23,7 +23,9 @@ Release notifications
 
 .. toctree::
    :maxdepth: 1
-   
-   about
+
+   development   
    roadmap
    contributing
+   about
+   

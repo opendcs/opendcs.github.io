@@ -24,10 +24,7 @@ concurrency:
 
 jobs:  
   build:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}    
-    runs-on: ubuntu-latest    
+    runs-on: ubuntu-latest
     steps:      
       - name: Checkout
         uses: actions/checkout@v3
@@ -45,7 +42,14 @@ jobs:
         with:
           # Upload entire repository
           path: 'build/html'
+  deploy:          
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    if: ${{ github.ref == 'refs/heads/main' }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
-        if: ${{ github.ref == 'ref/head/main' }}
         id: deployment
         uses: actions/deploy-pages@v1

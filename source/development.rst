@@ -34,4 +34,4 @@ Show stopper bugs are things that prevent the components from working at all or 
  while certainly annoying for the requestor thereof, shall not prevent a release.
 
 NOTE: The OpenDCS team will not promise a feature by a version number. The OpenDCS team will not stress themselves out to 
-fufill someone elses promise thereof.
+fufill someone elses promise thereof. However, we will always work to help make the software better.

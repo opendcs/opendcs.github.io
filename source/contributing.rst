@@ -23,12 +23,12 @@ Contributing new projects or large changes
 ##########################################
 
 If you have an idea but it will involve larger changes, please open an issue first. Depending on the exact
-work it may be either placed in it's own branch or get a new repo, either way we ask that you continously update
+work it may be either placed in it's own branch or get a new repo, either way we ask that you continuously update
 the code for others to see.
 
 If the change will be going into OpenDCS proper (the https://github.com/opendcs/opendcs repository) 
-opening a draft PR will be required and continous updates expected. Additionally it will be the developers 
-responsbility to keep up-to-date with the target branch, either with a merge or rebase.
+opening a draft PR will be required and continuous updates expected. Additionally it will be the developers 
+responsibility to keep up-to-date with the target branch, either with a merge or rebase.
 
 Contributing to other organization repositories
 ###############################################

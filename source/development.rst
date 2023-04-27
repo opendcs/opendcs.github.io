@@ -26,9 +26,8 @@ The process will be as follows:
 - Work is performed and merged into the default (or version) branch
 - at the middle of the month a vote is taken
   - if passed release, is done then
-  - if fails, work continues until satisfied OR it's the end of the month and there are no 
-    show stopper bugs.
-    - If there are egregious show stoppers there will be no release for the month.
+  - if fails, work continues until satisfied OR it's the end of the month and there are no show stopper bugs.
+  - if there are egregious show stoppers there will be no release for the month.
 
 Show stopper bugs are things that prevent the components from working at all or causing problems. Missing features,
  while certainly annoying for the requestor thereof, shall not prevent a release.

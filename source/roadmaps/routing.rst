@@ -3,7 +3,7 @@ Routing
 
 Roadmap for the routing module.
 
-.. postlist:: 5
+.. postlist::
    :category: roadmap
    :tags: routing
    :excerpts:

@@ -3,7 +3,7 @@
 
 Roadmap for 7.0 series
 
-.. postlist:: 5
+.. postlist::
    :category: roadmap
    :tags: 7_0
    :excerpts:

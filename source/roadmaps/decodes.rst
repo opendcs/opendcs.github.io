@@ -3,7 +3,7 @@ DECODES
 
 Roadmap for the DECODES module.
 
-.. postlist:: 5
+.. postlist::
    :category: roadmap
    :tags: decodes
    :excerpts:

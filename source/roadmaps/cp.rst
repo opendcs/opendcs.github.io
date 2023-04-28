@@ -3,7 +3,7 @@ Computation Processor
 
 Roadmap for the computation processor
 
-.. postlist:: 5
+.. postlist::
    :category: roadmap
    :tags: cp
    :excerpts:

@@ -3,7 +3,7 @@ LRGS
 
 Roadmap for LRGS application/service
 
-.. postlist:: 5
+.. postlist::
    :category: roadmap
    :tags: lrgs
    :excerpts:

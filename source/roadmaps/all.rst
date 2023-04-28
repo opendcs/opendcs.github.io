@@ -3,7 +3,7 @@ ALL
 
 Roadmap for the OpenDCS in general.
 
-.. postlist:: 5
+.. postlist::
    :category: roadmap
    :tags: all
    :excerpts:
